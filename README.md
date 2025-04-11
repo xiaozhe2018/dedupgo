@@ -98,4 +98,4 @@ dedupgo scan -s 1MB /path/to/directory
 如有问题或建议，欢迎通过以下方式联系：
 
 - 提交 [Issue](https://github.com/xiaozhe/dedupgo/issues)
-- 邮件：[您的邮箱] 
+- 邮件：xiaozhe9629@gmail.com
